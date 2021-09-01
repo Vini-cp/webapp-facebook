@@ -1,3 +1,5 @@
+import logging as lg
+
 from flask_sqlalchemy import SQLAlchemy
 
 from .views import app
